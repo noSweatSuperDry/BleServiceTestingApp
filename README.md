@@ -1,3 +1,10 @@
+### React-native-ble-manager
+### React-navigation 6.x
+### React-native 0.74
+### Redux
+
+
+
 ### Requirments: 
 
 1. Java 17+
